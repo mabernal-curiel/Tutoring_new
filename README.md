@@ -1,2 +1,2 @@
 # Tutoring_new
-This is my new repository. 
+We will be practicing some github basics
